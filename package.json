@@ -1,0 +1,26 @@
+{
+  "name": "ri6",
+  "version": "1.0.0",
+  "description": "O exercício proposto ajudará ao desenvolvedor iniciante praticar a criação de objetos, o conceito de herança, o conceito de encapsulamento e o conceito de polimorfismo.\r Considere que você foi contratado para desenvolver uma calculadora, que funcione como um aplicativo do tipo cli (commandline interface), feito em TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauraflx/RI6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lauraflx/RI6/issues"
+  },
+  "homepage": "https://github.com/lauraflx/RI6#readme",
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
